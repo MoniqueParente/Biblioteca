@@ -1,5 +1,4 @@
 # Monique Parente Lima | Projeto: Biblioteca.
 
-Objetivo: Estudo sobre Teste.
-
+Baseado no curso Udemy: API's RestFul de alto nível com Spring Boot utilizando TDD e o novo JUnit 5.
 

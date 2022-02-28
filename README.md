@@ -1,5 +1,5 @@
-# Monique Parente Lima
+# Monique Parente Lima | Projeto: Biblioteca.
 
-Projeto para estudo sobre: Teste
+Objetivo: Estudo sobre Teste.
 
 

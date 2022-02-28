@@ -1,6 +1,6 @@
 # Monique Parente - Library
 
-[![Build Status](https://travis-ci.com/dougllasfps/library-api.svg?branch=master)](https://travis-ci.com/dougllasfps/library-api)
+[![Build Status](https://github.com/MoniqueParente/EstudoTestes)](https://github.com/MoniqueParente/EstudoTestes)
 
-[![codecov](https://codecov.io/gh/dougllasfps/library-api/branch/master/graph/badge.svg)](https://codecov.io/gh/dougllasfps/library-api)
+[![codecov](https://github.com/MoniqueParente/EstudoTestes)](https://app.codecov.io/account/gh/MoniqueParente)
 

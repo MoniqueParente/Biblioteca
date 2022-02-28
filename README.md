@@ -2,5 +2,5 @@
 
 Baseado no curso: 
 
-- [Curso Cod3r - Udemy](https://nttdatalearn.udemy.com/course/design-de-apis-restful-com-tdd-spring-boot-e-junit-5/learn/lecture/16759028#overview)<br/>
+- [Curso Udemy](https://nttdatalearn.udemy.com/course/design-de-apis-restful-com-tdd-spring-boot-e-junit-5/learn/lecture/16759028#overview)<br/>
 

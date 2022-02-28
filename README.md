@@ -1,6 +1,5 @@
-# Monique Parente - Library
+# Monique Parente Lima
 
-[![Build Status](https://github.com/MoniqueParente/EstudoTestes)](https://github.com/MoniqueParente/EstudoTestes)
+Projeto para estudo sobre: Teste
 
-[![codecov](https://github.com/MoniqueParente/EstudoTestes)](https://app.codecov.io/account/gh/MoniqueParente)
 
